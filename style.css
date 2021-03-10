@@ -10,9 +10,9 @@ body {
     line-height: 1;
     margin: 0;
     background-image: url(BraveAssasin.png);
+    background-size: cover;
     background-repeat: no-repeat;
-    background-size: auto ;
-    background-color: #565656;
+    background-color: darkslategrey;
     color: lightgray;
     text-align: center;
 }
